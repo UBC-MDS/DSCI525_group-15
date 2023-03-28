@@ -9,6 +9,8 @@ This is a repository for housing the code and activities required for DSCI 525 M
 - Peng Zhang
 - Ken Wang
 
+## Description
+
 ## License
 
 This repository falls under the MIT license which can be found in [LICENSE](https://github.com/tieandrews/DSCI525_group-15/blob/main/LICENSE).
